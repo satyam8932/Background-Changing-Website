@@ -52,8 +52,8 @@
 }
 
 .heart {
-    height: 46px;
-    width: 46px;
+    height: 60px;
+    width: 60px;
     background-image: url(like.ico);
     background-size: cover;
 }
